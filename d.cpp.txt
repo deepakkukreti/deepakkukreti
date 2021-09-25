@@ -1,0 +1,22 @@
+//DEEPAK CHAND KUKRETI//
+
+//SECTIO: M//
+
+//STUDENT ID :20011568//
+
+#include <iostream>
+
+using namespace std;
+
+
+
+int main()
+
+{
+   
+ cout<<"Hello ";
+
+    
+ return 0;
+
+}
